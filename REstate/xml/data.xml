@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <block>
+      <img>..image/slider1.jpg</img>
+      <title> Russian </title>
+      <price> $ 0.5mln </price>
+   </block>
+   <block>
+      <img>..image/slider1.jpg</img>
+      <title> Villa </title>
+      <price> $ 200mln </price>
+   </block>
+   <block>
+      <img>..image/slider1.jpg</img>
+      <title> house </title>
+      <price> $ 125.00 USD </price>
+   </block>
+   <block>
+      <img>..image/slider1.jpg</img>
+      <title> big house </title>
+      <price> $ 1 mln </price>
+   </block>
+  
